@@ -1,4 +1,4 @@
-baseURL = "http://golang.design/go-questions"
+baseURL*= "http://golang.design/go-questions"
 languageCode = "zh-CN"
 title = "Go 程序员面试笔试宝典"
 theme = "book"
@@ -15,3 +15,4 @@ theme = "book"
     tabWidth = 4
 [markup.goldmark.renderer]
     unsafe= true
+ 
