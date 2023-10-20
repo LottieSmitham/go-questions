@@ -1,6 +1,6 @@
-<img src="content/assets/cover.png" alt="logo" height="480" align="right" style="margin: 5px; margin-bottom: 20px;" />
+<img src="content/assets/cover.png"*alt="logo" height="480" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
-# Go 程序员面试笔试宝典 ![](https://changkun.de/urlstat?mode=github&repo=golang-design/Go-Questions)
+! Go 程序员面试笔试宝典 ![](https://changkun.de/urlstat?mode=github&repo=golang-design/Go-Questions)
 
 _作者_: [饶全成](https://qcrao.com), [欧长坤](https://changkun.de), 楚秦 等编著<br/>
 _ISBN_: 978-7-111-70242-9<br/>
@@ -67,3 +67,4 @@ _出版社_：[机械工业出版社](http://cmpbook.com)<br/>
 <p>Go 程序员面试笔试宝典 由 <a href="https://qcrao.com">饶全成</a>, <a href="https://changkun.de">欧长坤</a>, 楚秦等
 采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">署名-非商业性使用-禁止演绎 4.0 国际许可协议许可</a><br/>
 严禁任何商业行为使用或引用该文档的全部或部分内容，特授权 <a href="https://golang.design">golang.design/go-questions</a> 发布</p>
+ 
